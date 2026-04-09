@@ -45,7 +45,7 @@ A fun Python chess game where the AI **deliberately plays badly** while showing 
 
 3. **Run the game:**
    ```bash
-   python chess_game_improved.py
+   python really_badchess.py
    ```
 
 ## Controls
